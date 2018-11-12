@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\gisel\source\repos\tp1_5sem\tp1_5sem\common_price.h(78): warning C4715: CommonPrice::operator<<: значение возвращается не при всех путях выполнения
+  tp1_5sem.vcxproj -> C:\Users\gisel\source\repos\tp1_5sem\Debug\tp1_5sem.exe
